@@ -10,4 +10,4 @@ reg delete HKEY_CURRENT_USER\Software\Chromium /f
 
 echo Traces has been removed!
 
-timeout 5 >nul
+timeout 10 >nul
